@@ -1,0 +1,15 @@
+
+{
+  "users": [
+    { "id": 1, "username": "Carl CJ Johnson" },
+    { "id": 2, "username": "Serious Sam" },
+    { "id": 3, "username": "Sam Fisher" },
+    { "id": 4, "username": "Lara Croft" },
+    { "id": 5, "username": "Marcus Fenix" },
+    { "id": 6, "username": "Gordon Freeman" },
+    { "id": 7, "username": "Max Payne" },
+    { "id": 8, "username": "Kazuya Mishima" },
+    { "id": 9, "username": "Niko Belicc" },
+    { "id": 10, "username": "Duke Nukem" }
+  ]
+}
