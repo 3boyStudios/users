@@ -1,6 +1,6 @@
 
 {
-  "users": [
+  "gameCharacters": [
     { "id": 1, "username": "Carl CJ Johnson" },
     { "id": 2, "username": "Serious Sam" },
     { "id": 3, "username": "Sam Fisher" },
